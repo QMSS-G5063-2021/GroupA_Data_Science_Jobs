@@ -7,4 +7,4 @@ We have investigated Data Scientist jobs in the US. Since we are studying to bec
 
 Presentation Video: https://drive.google.com/file/d/1O8sC9iWw1OLuiPI2ogBUpHnCAPnp3Ve3/view?usp=sharing (LionMail Required).
 
-Link to public website: https://rpubs.com/drose630/757354
+Link to public website: https://rpubs.com/drose630/759279
